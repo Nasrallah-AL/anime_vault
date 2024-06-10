@@ -28,15 +28,16 @@ To get a local copy up and running, follow these simple steps:
    ```sh
    git clone https://github.com/your-username/anime-vault.git
 2. Navigate to the project directory:
-  ```sh
+   ```sh
    cd anime-vault
-3. Install the dependencies::
-  ```sh
+  
+3. Install the dependencies:
+   ```sh
    npm install
 
 ## 📦 Usage
 To start the development server, run:
-  ```sh
+   ```sh
    npm run dev
 
 Open your browser and go to http://localhost:3000 to see Anime Vault in action.
